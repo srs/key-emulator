@@ -1,0 +1,8 @@
+{
+  "name": "key-emulator",
+  "version": "1.0.0",
+  "dependencies": {
+    "robotjs": "^0.4.7",
+    "serialport": "^5.0.0"
+  }
+}
